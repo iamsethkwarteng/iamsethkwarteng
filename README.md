@@ -1,5 +1,6 @@
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="50" height="50" /><h1>
-<h2 align="left">Hi 👋! My name is Seth Asante Kwarteng and I'm a software engineer, from Ghana</h2>
+ 
+<h2 align="left">Hi 👋! My name is Seth Asante Kwarteng and I'm a software engineer from Ghana</h2>
 
 ###
 
